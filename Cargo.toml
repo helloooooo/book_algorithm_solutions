@@ -7,3 +7,7 @@ edition = "2021"
 
 [dependencies]
 proconio = "*"
+
+[[bin]]
+name = "2-4"
+path = "src/chapter-2/4.rs"
