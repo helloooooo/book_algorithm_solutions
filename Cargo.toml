@@ -24,3 +24,7 @@ path = "src/chapter-3/sol-3-2.rs"
 [[bin]]
 name = "sol-3-3"
 path = "src/chapter-3/sol-3-3.rs"
+
+[[bin]]
+name = "sol-3-4"
+path = "src/chapter-3/sol-3-4.rs"
