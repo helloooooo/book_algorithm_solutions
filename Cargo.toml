@@ -11,3 +11,7 @@ proconio = "*"
 [[bin]]
 name = "2-4"
 path = "src/chapter-2/4.rs"
+
+[[bin]]
+name = "3-6"
+path = "src/chapter-3/6.rs"
