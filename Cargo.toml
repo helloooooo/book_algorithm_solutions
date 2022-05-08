@@ -15,3 +15,8 @@ path = "src/chapter-2/4.rs"
 [[bin]]
 name = "3-6"
 path = "src/chapter-3/6.rs"
+
+
+[[bin]]
+name = "sol-3-2"
+path = "src/chapter-3/sol-3-2.rs"
