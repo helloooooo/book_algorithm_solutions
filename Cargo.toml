@@ -41,3 +41,15 @@ path = "src/chapter-3/sol-3-6.rs"
 [[bin]]
 name = "sol-3-7"
 path = "src/chapter-3/sol-3-7.rs"
+
+[[bin]]
+name = "pra-4-2"
+path = "src/chapter-4/pra-4-2.rs"
+
+[[bin]]
+name = "pra-4-4"
+path = "src/chapter-4/pra-4-4.rs"
+
+[[bin]]
+name = "pra-4-5"
+path = "src/chapter-4/pra-4-5.rs"
